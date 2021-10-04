@@ -5,7 +5,7 @@
 <h2>Graduate Rotational Internship Program || The Sparks Foundation</h2>
 
 
-<h4>Web & Mobile Development Task #6</h4>
+<h2>Web & Mobile Development Task #6</h2>
 
 <h2>Automation using selenium</h2>
 
